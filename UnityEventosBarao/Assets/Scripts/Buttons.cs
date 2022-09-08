@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Buttons : MonoBehaviour
 {
-    // Start is called before the first frame update
+
     public void EventList()
     {
         SceneManager.LoadScene("EventList");
